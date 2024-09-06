@@ -127,11 +127,11 @@
     // Chapter 1 (Alerts)
 
     // 1.
-    // alert("First Name: Muhammad");
-    // alert("Last Name: Arsalan");
-    // alert("Email: Arsalan@gmail.com");
-    // alert("Phone Number: 0900-78601");
-    // alert("Password: @myPassword@");
+    alert("First Name: Muhammad");
+    alert("Last Name: Arsalan");
+    alert("Email: Arsalan@gmail.com");
+    alert("Phone Number: 0900-78601");
+    alert("Password: @myPassword@");
 
     // 2.
     // Incorrect:  alert "You're learning JavaScript!";
